@@ -1,0 +1,2 @@
+$ChromeOptions = New-object OpenQA.Selenium.Chrome.ChromeOptions
+#Ignore SSL certification errors
